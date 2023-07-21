@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/steph/OneDrive/VU/CS/CP(C++)/Module 6/stack.cpp
+iostream
+-
+vector
+-
+sstream
+-
+cctype
+-
+
